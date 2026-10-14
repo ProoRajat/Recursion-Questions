@@ -7,7 +7,7 @@ Output: 15
 
 import java.util.Scanner;
 
-public class Q3_NaturalNumberSum {
+public class Q03_NaturalNumberSum {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();

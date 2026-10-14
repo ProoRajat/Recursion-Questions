@@ -7,7 +7,7 @@ Output: 4
 
 import java.util.Scanner;
 
-public class Q6_CountDigit {
+public class Q06_CountDigit {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();

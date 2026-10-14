@@ -7,7 +7,7 @@ Output: 5 4 3 2 1
 
 import java.util.Scanner;
 
-public class Q2_PrintNumbers {
+public class Q02_PrintNumbers {
     public static void main(String[] args) {
         try (Scanner sc = new Scanner(System.in)) {
             System.out.println("Enter a valid Number:");

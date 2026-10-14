@@ -7,7 +7,7 @@ Output: 6
 
 import java.util.Scanner;
 
-public class Q5_DigitSum {
+public class Q05_DigitSum {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
